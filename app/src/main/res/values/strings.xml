@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Crypto</string>
+    <string name="encypt">Encypt</string>
+    <string name="encypted_text">Encypted text</string>
+    <string name="plain_text">Plain text</string>
+</resources>
